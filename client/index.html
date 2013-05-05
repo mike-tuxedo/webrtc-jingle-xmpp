@@ -1,0 +1,97 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>WebRTC To Jingle Draft</title>
+	<script src="jquery.js"></script>
+	<script src="client.js"></script>
+	<script src="signaling.js"></script>
+	<script src="sdptojingle.js"></script>
+	<style type="text/css">
+		body{
+			background-image: url(background.png);
+			font-family: helvetica;
+			font-size: 13px;
+		}
+
+		li{
+			text-decoration: none;
+			list-style: none;
+		}
+
+		button{
+			cursor: pointer;
+			background: rgba(240,240,240,1);
+			width: 150px;
+			padding: 2px;
+			border-radius: 20px;
+		}
+		
+		label{
+			font-weight: bold;
+		}
+		.hover:hover{
+			background: rgba(20,20,20,1);
+			color: #eee;
+		}
+
+		#control{
+			position: absolute;
+			top: 0px;
+			left: 0px;
+			height: 100%;
+			border-right: 2px solid #eee;
+			background: rgba(250,250,250,0.5);
+			width: 250px;
+			overflow-y: scroll;
+		}
+
+		#log{
+			position: absolute;
+			top: 0px;
+			right: 0px;
+			bottom: 0px;
+			left: 250px;
+			color: white;
+			padding-left: 10px;
+			font-size: 14px;
+			overflow-y: scroll;
+			height: 100%;
+		}
+	</style>
+</head>
+<body>
+	<div id="control">
+		<ul><!--
+			<li><button class="hover" id="connToWebsocket">connect to Webserver</button></li>
+			<li><button id="connToXMPP">connect to XMPP</button></li>-->
+			<label>set funktions</label>
+			<li><button class="hover"  id="connect">connect xmpp</button></li>
+			<li><button class="hover"  id="disconn">disconnect xmpp</button></li>
+			<li><button class="hover"  id="setPresence">set presence online</button></li>
+			<li>
+				<input id="locJID" type="text" value="" size="20" placeholder="localJID"/>
+				<button class="hover"  id="setLocalJID">set localJID</button>
+			</li>
+			<li>
+				<input id="remJID" type="text" value="" size="20" placeholder="remoteJID"/>
+				<button class="hover"  id="setRemoteJID">set remoteJID</button>
+			</li>
+			<label>message funktions</label>
+			<li><button class="hover"  id="subscribe">subscribe</button></li>
+			<li><button class="hover"  id="subscribed">subscribed</button></li>
+			<li><button class="hover"  id="unsubscribe">unsubscribe</button></li>
+			<li><button class="hover"  id="createOffer">create offer</button></li>
+			<li><button class="hover"  id="sendSDP">send SDP</button></li>
+			<label>get funktions</label>
+			<li><button class="hover" id="getDiscInfo">Discovery info from Server</button></li>
+			<li><button class="hover" id="getDiscInfoToClient">Discovery info from Jingleclient</button></li>
+			<li><button class="hover" id="getRoster">get Roster</button></li>
+			<li><button class="hover"  id="close">close all connections</button></li>
+		</ul>
+	</div>
+	<div id="log">
+		<audio id="remoteView"></audio>
+		<audio id="localView"></audio>
+	</div>
+</body>
+</html>

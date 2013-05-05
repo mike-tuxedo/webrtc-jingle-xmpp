@@ -1,0 +1,20 @@
+<iq to='jingle@j46760.servers.jiffybox.net' type='set' id='3648448380' xmlns='jabber:client'>
+	<jingle xmlns='urn:xmpp:jingle:1' action='session-initiate' initiator='mike@j46760.servers.jiffybox.net' sid='3648448380'>
+		<content creator='initiator' name='audio'>
+			<description xmls='urn:xmpp:jingle:apps:rtp:1' profile='RTP/SAVPF' media='audio'>
+				<payload-type id='104' name='ISAC' clockrate='32000'/>
+				<encryption required='1'>
+					<crypto crypto-suite='AES_CM_128_HMAC_SHA1_80' key-params='inline' session-params='KDR=0' tag='1'/>
+				</encryption>
+					<streams>
+						<stream cname='null' mslabel='null' label='null'>
+							<ssrc></ssrc>
+						</stream>
+					</streams>
+				</description>
+				<transport xmlns='urn:xmpp:jingle:transports:raw-udp:1' pwd='' ufrag=''>
+					<candidate ip='' port='1' generation='0'/>
+				</transport>
+			</content>
+		</jingle>
+	</iq>

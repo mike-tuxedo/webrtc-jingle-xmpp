@@ -1,0 +1,1037 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"disconnect"
+			],
+			[
+				"remo",
+				"remoteSDP"
+			],
+			[
+				"ws",
+				"wsConn"
+			],
+			[
+				"full",
+				"fullLocalID"
+			],
+			[
+				"fu",
+				"fullRemoteID"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"discovery",
+				"discovery-info"
+			],
+			[
+				"sess",
+				"session-initiate"
+			],
+			[
+				"test",
+				"testStanza"
+			],
+			[
+				"get",
+				"getJingle"
+			],
+			[
+				"B",
+				"BOSH_SERVICE"
+			],
+			[
+				"this",
+				"this-is-a-stub"
+			],
+			[
+				"iq",
+				"iqStanza"
+			],
+			[
+				"send",
+				"sendIQ"
+			],
+			[
+				"chang",
+				"_changeConnectStatus"
+			],
+			[
+				"process",
+				"_processRequest"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"br",
+				"browserCon"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"jingl",
+				"jingleStanza"
+			],
+			[
+				"strea",
+				"stream"
+			],
+			[
+				"cr",
+				"crypto1"
+			],
+			[
+				"jin",
+				"jingleStanza"
+			],
+			[
+				"jingle",
+				"jingleXML"
+			],
+			[
+				"jing",
+				"jingleString"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"t",
+				"text-top"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pr",
+				"proto	Prototype"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"local",
+				"localMsg"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"web",
+				"webS"
+			],
+			[
+				"button",
+				"button3"
+			],
+			[
+				"lc",
+				"localhost"
+			],
+			[
+				"we",
+				"webS"
+			],
+			[
+				"soci",
+				"social_button_01"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"ar",
+				"area_top_text"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"are",
+				"area_top"
+			],
+			[
+				"con",
+				"content_buttons"
+			],
+			[
+				"ARE",
+				"area_middle"
+			],
+			[
+				"footer",
+				"footer_area_top"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"area",
+				"area_middle"
+			],
+			[
+				"he",
+				"header_links"
+			],
+			[
+				"head",
+				"header_rechts"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"menu",
+				"menu-item-51"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-links"
+			],
+			[
+				"best",
+				"bestCol"
+			],
+			[
+				"D",
+				"DIM_Y"
+			],
+			[
+				"Dim",
+				"DIM_X"
+			],
+			[
+				"DIM",
+				"DIM_Y"
+			],
+			[
+				"wss",
+				"wssOpenfire"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"mrgin",
+				"margin-right"
+			],
+			[
+				"d",
+				"text-decoration"
+			],
+			[
+				"pars",
+				"parseJingleToSDP"
+			],
+			[
+				"remote",
+				"remoteDescription"
+			],
+			[
+				"got",
+				"gotDescription"
+			],
+			[
+				"pc",
+				"pcConfiguration"
+			],
+			[
+				"Web",
+				"webSocket"
+			],
+			[
+				"v",
+				"video	Tag"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"L",
+				"LINK	Tag"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"visit",
+				"visitUs"
+			],
+			[
+				"social",
+				"socialSidebar"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"u",
+				"setURL"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"A",
+				"Application"
+			],
+			[
+				"news",
+				"newsView"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 9523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sdpToAndFromJingle.js",
+			"settings":
+			{
+				"buffer_size": 5858,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sdptojingle.js",
+			"settings":
+			{
+				"buffer_size": 15198,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "jingle_example2.xml",
+			"settings":
+			{
+				"buffer_size": 1232,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/bakk/server/jinglesSDP_example.xml",
+		"/var/www/bakk/server/jinglesSDP.xml",
+		"/home/mike/Dokumente/FH/SS2012/BAC-Arbeit/bakk1/Body.tex",
+		"/var/www/bakk/server/eigeneSDP.xml",
+		"/var/www/bakk/server/sdptojingle.js",
+		"/var/www/bakk/server/logHelper.js",
+		"/var/www/bakk/server/strophe.js",
+		"/var/www/Nodejs_P2P-HandshakeServer/server.js",
+		"/var/www/Nodejs_P2P-HandshakeServer/libs/helpers.js",
+		"/var/www/bakk/test/jquery.js",
+		"/var/www/bakk/server/jingle.xml",
+		"/var/www/bakk/server/sdpToAndFromJingle.js",
+		"/var/www/bakk/server/mySDP.xml",
+		"/var/www/bakk/test/sdpToAndFromJingle.js",
+		"/var/www/bakk/server/server.js",
+		"/var/www/bakk/test/server.js",
+		"/var/www/bakk/client/index.html",
+		"/var/www/bakk/test/client.js",
+		"/var/www/bakk/test/index.html",
+		"/var/www/bakk/test/test-prosody-bosh.html",
+		"/var/www/bakk/test/log.js",
+		"/var/www/bakk/test/dutil.js",
+		"/var/www/bakk/test/strophe_module.js",
+		"/var/www/bakk/test/strophe.js",
+		"/var/www/bakk/test/md5.js",
+		"/var/www/bakk/test/base64.js",
+		"/var/www/bakk/test/XMLHttpRequest.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_code/javascript_1_code/grid.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_tests/javascript_1_tests/grid_test.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_code/javascript_1_code/my_grid.js",
+		"/var/www/bakk/test/style.css",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_code/javascript_1_code/message.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_tests/javascript_1_tests/message_test.js",
+		"/var/www/bakk/test/signaling.js",
+		"/var/www/bakk/test/style-cs",
+		"/home/mike/Dokumente/FH/SS2012/BAC-Arbeit/Template-Bakk1-German/source/Body.tex",
+		"/var/www/work_Peter/redmade/redmade-production/header.php",
+		"/var/www/work_Peter/redmade/redmade-production/footer.php",
+		"/var/www/work_Peter/redmade/redmade-production/style.css",
+		"/var/www/work_Peter/redmade/redmade-production/impressum.php",
+		"/var/www/work_Peter/redmade/redmade-production/ie8.css",
+		"/var/www/work_Peter/redmade/redmade-production/index.php",
+		"/var/www/work_Peter/redmade/redmade-production/agb.php",
+		"/var/www/work_Peter/redmade/redmade-production/datenschutz.php",
+		"/var/www/work_Peter/redmade/redmade-production/kontakt.php",
+		"/home/mike/.cache/.fr-Hrih9t/IEEEexample.bib",
+		"/home/mike/VirtualBox VMs/IE9 - Win7/IE9 - Win7.vbox-prev",
+		"/home/mike/Dokumente/FH/SS2013/Bachelor/verwendete Quellen",
+		"/home/mike/Dokumente/FH/SS2012/BAC-Arbeit/Template-Bakk1-German/source/Bibliography.bib",
+		"/home/mike/.cache/.fr-SQaBya/IEEEfull.bib",
+		"/home/mike/Dokumente/FH/SS2012/BAC-Arbeit/bakk1/Bibliography.bib",
+		"/tmp/rfc.bib",
+		"/var/www/bakk/test/test-prosody-websockets.html",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_tests/javascript_4_tests/hangman_helper_test.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_tests/javascript_4_tests/hangman.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_code/javascript_3_code/hangman_helper.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_ha/javascript_3_ha/hangman_helper.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_ha/javascript_3_ha/Point.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_ha/javascript_3_ha/point.js",
+		"/home/mike/Downloads/test.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_ha/javascript_3_ha/people.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_code/javascript_3_code/Point.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_code/javascript_2_code/isObject.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_code/javascript_2_code/board4_template.js",
+		"/var/www/bakk/xmpp-js-libs/strophejs-1.0.2/examples/echobot.js",
+		"/var/www/bakk/xmpp-js-libs/strophejs-1.0.2/examples/crossdomain.js",
+		"/var/www/bakk/xmpp-js-libs/strophejs-1.0.2/examples/crossdomain.html",
+		"/var/www/bakk/xmpp-js-libs/strophejs-1.0.2/examples/attach/README",
+		"/var/www/work_Peter/redmade/redmade-production/datenschutz.html",
+		"/var/www/work_Peter/redmade/redmade-production/impressum.html",
+		"/var/www/work_Peter/redmade/redmade-production/agb.html",
+		"/var/www/work_Peter/redmade/impressum.html",
+		"/var/www/work_Peter/redmade/kontakt.html",
+		"/var/www/work_Peter/redmade/style.css",
+		"/var/www/work_Peter/redmade/index.html",
+		"/var/www/work_Peter/redmade/agb.html",
+		"/var/www/work_Peter/redmade/datenschutz.html",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_tests/javascript_3_tests/people_test.js",
+		"/home/mike/.cache/.fr-pOa1bZ/javascript_3_ha/people.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_ha/javascript_2_ha/connect4.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_ha/javascript_2_ha/board4.js",
+		"/home/mike/Dokumente/FH/SS2013/Ausgewählte Kapitel - JavaScript/js7_code/javascript_3_code/point.js",
+		"/var/www/work_Peter/redmade/redmade-development/wp-content/themes/redmade/datenschutz.php",
+		"/var/www/bakk/xmpp-js-libs/strophejs-1.0.2/examples/basic.js",
+		"/var/www/bakk/xmpp-js-libs/strophejs-1.0.2/examples/basic.html",
+		"/var/www/bakk/xmpp-js-libs/lightstring-master/examples/echobot.js",
+		"/var/www/bakk/xmpp-js-libs/lightstring-master/README",
+		"/var/www/bakk/xmpp-js-libs/strophejs-1.0.2/examples/prebind.js",
+		"/var/www/bakk/xmpp-js-libs/strophejs/examples/basic.js",
+		"/home/mike/.cache/.fr-sabi6M/candy-chat-candy-ca544b1/example/index.html",
+		"/var/log/prosody/prosody.err",
+		"/var/log/prosody/prosody.log",
+		"/var/www/bakk/xmpp-js-libs/strophejs/examples/basic.html",
+		"/etc/prosody/prosody.cfg.lua",
+		"/etc/prosody/migrator.cfg.lua",
+		"/var/www/bakk/xmpp-js-libs/lightstring-master/examples/package.json",
+		"/var/www/bakk/xmpp-js-libs/lightstring-master/examples/README.md",
+		"/var/www/phovec/assets/js/helpers/signaling.js",
+		"/var/www/bakk/lightstring-master/tests/expect.js",
+		"/var/www/bakk/strophejs/examples/attach/README",
+		"/var/www/bakk/strophejs/examples/basic.js",
+		"/var/www/bakk/strophejs/examples/echobot.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/EMBEDDING.TXT",
+		"/var/www/bakk/strophejs/examples/crossdomain.js",
+		"/var/www/bakk/strophejs/examples/prebind.html",
+		"/var/www/bakk/strophejs/examples/basic.html",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/INSTALL.md",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/src/bosh-request-parser.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/node_modules/node-expat/deps/libexpat/configure",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/node_modules/node-expat/deps/libexpat/conftools/config.guess",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/templates/sysinfo.html",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/bosh.js.conf",
+		"/var/www/bakk/node-xmpp-bosh/EMBEDDING.TXT",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/src/lookup-service.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/src/options.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/src/starttls.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/src/helper.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/src/bosh.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/lintit.sh",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/bosh.conf.example.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/monitor.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/run-server.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/src/websocket.js",
+		"/var/www/bakk/server/node_modules/node-xmpp-bosh/src/main.js",
+		"/var/www/bakk/node-xmpp-bosh/whats_changed.md",
+		"/var/www/bakk/node-xmpp-bosh/DEBIAN_HOW_TO.md",
+		"/var/www/bakk/node-xmpp-bosh/src/main.js",
+		"/var/www/bakk/node-xmpp-bosh/README.md"
+	],
+	"find":
+	{
+		"height": 83.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/var/www/work/SalzburgerKonzertgesellschaftPhp",
+			"/var/www/work/SalzburgerKonzertgesellschaftPhp/shared/__plugins/Cms/Content",
+			"/var/www/work/SalzburgerKonzertgesellschaftPhp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"iqSuccess",
+			"TODO",
+			"conn",
+			"wsxmppconn",
+			"conn",
+			"conn.",
+			"conn",
+			"testStanza",
+			"xmlDoc",
+			"toStrin",
+			"exports",
+			"rawInput",
+			"rawIntput",
+			"rawOutput",
+			"rawpinput",
+			"nodeTree",
+			"addhandler",
+			"tostr",
+			"tosr",
+			"socke",
+			"addhandler",
+			"'mike@j46760.servers.jiffybox.net'",
+			"'jingle@j46760.servers.jiffybox.net'",
+			"\"",
+			"Strophe.Builder",
+			"$iq",
+			"var id",
+			"toJingle",
+			"toSDP",
+			"connection",
+			"presence",
+			"usage",
+			"require",
+			"window",
+			"strophe",
+			"Strophe.Status.CONNECTed",
+			"_throttledRequestHandler",
+			"Strophe.Connection",
+			"Strophe.connect",
+			" Connect",
+			"connect",
+			"_dataRecv",
+			"Input",
+			"rawInput",
+			"Strophe.Connection.rawInput",
+			"Strophe.Connection.rawInput()",
+			"rawInput",
+			"var xhr",
+			"document",
+			"var Strophe",
+			"Strophe.Connection",
+			"Strophe.C",
+			"Strophe",
+			"Strope",
+			"window",
+			"connection",
+			"wss",
+			"listing",
+			"include",
+			"image",
+			"autocite",
+			"``",
+			"''",
+			"autocite",
+			"[]{",
+			"e[]{",
+			"[][]{",
+			"\\texttt",
+			"()",
+			"function",
+			"code",
+			"funk",
+			"\\ref",
+			"bild",
+			"label",
+			"ref",
+			"autocite",
+			"vgl.",
+			"\\ref",
+			"ref",
+			"header",
+			"footer",
+			"cpu count",
+			"cpu",
+			"autoc",
+			"cite",
+			"citre",
+			"auto",
+			"conference public",
+			"conference",
+			"Technical overview of VP8",
+			"xep-0166",
+			"draft-ietf-rtcweb",
+			"button",
+			"#button",
+			"background-image",
+			"QUELLVERWEIS",
+			"DATENSCHUTZERKLÄRUNG FÜR DIE NUTZUNG VON TWITTER",
+			"DATENSCHUTZERKLÄRUNG FÜR DIE NUTZUNG VON GOOGLE +1",
+			"DATENSCHUTZERKLÄRUNG FÜR DIE NUTZUNG VON GOOGLE ANALYTICS",
+			"DATENSCHUTZERKLÄRUNG FÜR NUTZUNG VON FACEBOOK-PLUG-INS (LIKE-BUTTON)",
+			"DATENSCHUTZ",
+			"text",
+			"send",
+			"conne",
+			"this.",
+			"remoteUserId",
+			"username",
+			"userLocation",
+			"this.user",
+			"this.username",
+			"To",
+			"farParty",
+			"output",
+			"stat",
+			"impress",
+			"generator",
+			"font-family",
+			";\">",
+			"float: left",
+			"35",
+			"p{",
+			"padding-left",
+			"websock",
+			"ok ",
+			"ok",
+			"error",
+			"conf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"xmppConn.",
+			"xmppCon",
+			"sdpStanza",
+			"bareLocalID",
+			"bareRemoteID",
+			"'",
+			"getJingle",
+			"getSDP",
+			"process",
+			"xmppCon",
+			"browserCon",
+			"<strrong>QUELLVERWEIS</strong>",
+			"<strrong>DATENSCHUTZERKLÄRUNG FÜR DIE NUTZUNG VON TWITTER</strong>",
+			"<strrong>DATENSCHUTZERKLÄRUNG FÜR DIE NUTZUNG VON GOOGLE +1</strong>",
+			"<strrong>DATENSCHUTZERKLÄRUNG FÜR DIE NUTZUNG VON GOOGLE ANALYTICS</strong>",
+			"<strrong>DATENSCHUTZERKLÄRUNG FÜR NUTZUNG VON FACEBOOK-PLUG-INS (LIKE-BUTTON)</strong>",
+			"<strrong>DATENSCHUTZ</strong>",
+			"",
+			"var ",
+			"",
+			"var ",
+			"statusOutput",
+			"webS",
+			"#e90015",
+			"color",
+			"//color: #fff",
+			"#fff",
+			"",
+			"redmade-development.herokuapp.com",
+			"heroku_f091236e0e40a38",
+			"heroku_f091236e0e40a38\n	var media = navigator.getUserMedia({\n		video: true\n		},\n		function (stream) {\n			localVideo.src = stream;\n		},\n		function (error) {\n			console.log(\"An error occurred: \" + error);\n		}\n	);",
+			"http://redmade-development.herokuapp.com/\n	var media = navigator.getUserMedia({\n		video: true\n		},\n		function (stream) {\n			localVideo.src = stream;\n		},\n		function (error) {\n			console.log(\"An error occurred: \" + error);\n		}\n	);",
+			"	var localVideo = document.querySelector(\"#live-video\");\n	var media = navigator.getUserMedia({\n		video: true\n		},\n		function (stream) {\n			localVideo.src = stream;\n		},\n		function (error) {\n			console.log(\"An error occurred: \" + error);\n		}\n	);",
+			"localVideo",
+			"td",
+			"th",
+			"Cat",
+			"<div class=\"ym-g45 ym-gl\">",
+			"<p style=\"font-size: 11px\">",
+			"<div class=\"ym-gbox\">",
+			"class=\"ym-gbox\" style=\"font-size: 10px;\"",
+			"7px",
+			"174px",
+			"175px",
+			"172px",
+			"169px",
+			"167px",
+			"165px",
+			"163px",
+			"167px",
+			"170px",
+			"173px",
+			"175px",
+			"</strong>",
+			"<strong>",
+			" ",
+			"</strong>",
+			"<strong>",
+			" ",
+			"",
+			"</strong>",
+			"<strong>",
+			"<br/>",
+			"</strong>",
+			"<strong>",
+			" ",
+			"\"",
+			" ",
+			"</strong>",
+			"<strong>",
+			"</strong>",
+			"<strong>"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 9523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sdpToAndFromJingle.js",
+					"settings":
+					{
+						"buffer_size": 5858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1823,
+								1823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sdptojingle.js",
+					"settings":
+					{
+						"buffer_size": 15198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13752,
+								13752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8073.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "jingle_example2.xml",
+					"settings":
+					{
+						"buffer_size": 1232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}

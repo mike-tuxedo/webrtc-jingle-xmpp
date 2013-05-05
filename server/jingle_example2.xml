@@ -1,0 +1,19 @@
+<body xmlns="http://jabber.org/protocol/httpbind">
+	<iq id="purpleaf223dd7" type="set" to="mike@j46760.servers.jiffybox.net/40107a77-508a-4ec5-8731-3ab9d1910dde" from="jingle@j46760.servers.jiffybox.net/4a455e26-526d-4e3a-80f5-c305ad6d271a">
+		<jingle action="session-accept" initiator="mike@j46760.servers.jiffybox.net/40107a77-508a-4ec5-8731-3ab9d1910dde" responder="jingle@j46760.servers.jiffybox.net/4a455e26-526d-4e3a-80f5-c305ad6d271a" xmlns="urn:xmpp:jingle:1" sid="sid">
+			<content name="audio" senders="both" creator="initiator">
+				<description xmlns="urn:xmpp:jingle:apps:rtp:1" media="audio">
+					<payload-type name="PCMU" clockrate="8000" id="0" channels="0"/>
+					<payload-type name="PCMA" clockrate="8000" id="8" channels="0"/>
+					<payload-type name="telephone-event" clockrate="8000" id="126" channels="0">
+						<parameter value="0-15" name="events"/>
+					</payload-type>
+				</description>
+				<transport xmlns="urn:xmpp:jingle:transports:raw-udp:1">
+					<candidate component="1" port="61708" generation="0" id="purpleaf223dd5" ip="93.82.153.181"/>
+					<candidate component="2" port="61709" generation="0" id="purpleaf223dd6" ip="93.82.153.181"/>
+				</transport>
+			</content>
+		</jingle>
+	</iq>
+</body>

@@ -1,0 +1,31 @@
+<body rid='3700640626' xmlns='http://jabber.org/protocol/httpbind' sid='26350df20f9bc64a66b724a144f93ef2'>
+	<iq to='jingle@j46760.servers.jiffybox.net' type='set' id='testStanza' xmlns='jabber:client'>
+		<jingle xmlns='urn:xmpp:jingle:1' action='session-initiate' initiator='mike@j46760.servers.jiffybox.net' sid='sid'>
+			<content creator='initiator' name='audio'>
+				<description xmlns='urn:xmpp:jingle:apps:rtp:1' profile='RTP/SAVPF' media='audio'>
+					<payload-type id='103' name='ISAC' clockrate='16000'/>
+					<payload-type id='104' name='ISAC' clockrate='32000'/>
+					<payload-type id='111' name='opus' clockrate='48000'>
+						<parameter name='minptime' value='10'/>
+					</payload-type>
+					<payload-type id='0' name='PCMU' clockrate='8000'/>
+					<payload-type id='8' name='PCMA' clockrate='8000'/>
+					<payload-type id='107' name='CN' clockrate='48000'/>
+					<payload-type id='106' name='CN' clockrate='32000'/>
+					<payload-type id='105' name='CN' clockrate='16000'/>
+					<payload-type id='13' name='CN' clockrate='8000'/>
+					<payload-type id='126' name='telephone-event' clockrate='8000' maxptime='60'/>
+				</description>
+				<encryption required='1'>
+					<crypto crypto-suite='AES_CM_128_HMAC_SHA1_80' key-params='inline:Sv26gl3hOiCJ0rxZ2wWHC2K+9UdE1oGZUenOmF/o' session-params='' tag='1'/>
+					<crypto crypto-suite='AES_CM_128_HMAC_SHA1_32' key-params='inline:RHiVK5mn01CXzLnZiAa230KGJwwnaX2CY/ytjCqR' session-params='' tag='0'/>
+				</encryption>
+				<transport xmlns='urn:xmpp:jingle:transports:raw-udp:1' pwd='9JR7GZRZzYAHFkFmdG9DHADx' ufrag='TrbVa7ZyJ/HJNLyu'>
+					<candidate ip='10.0.0.3' port='54744' protocol='udp' type='host' generation='0'/>
+					<candidate ip='88.117.115.117' port='52272' protocol='udp' type='srflx' generation='0'/>
+					<candidate ip='10.0.0.3' port='58811' protocol='tcp' type='host' generation='0'/>
+				</transport>
+			</content>
+		</jingle>
+	</iq>
+</body>

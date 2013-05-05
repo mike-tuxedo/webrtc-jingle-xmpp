@@ -1,0 +1,27 @@
+<content creator='initiator' name='audio'>
+	<description xmlns='urn:xmpp:jingle:apps:rtp:1' media='audio'>
+		<payload-type id="103" name="ISAC" clockrate='16000'/>
+		<payload-type id="104" name="ISAC"  clockrate='32000'/>
+		<payload-type id="111" name="opus" clockrate="48000" channels='2'>
+			<parameter name='minptime' value='10'/>
+		</payload-type>
+		<payload-type id="0" name="PCMU" clockrate="8000"/>
+		<payload-type id="8" name="PCMA" clockrate="8000"/>
+		<payload-type id="107" name="CN" clockrate="48000"/>
+		<payload-type id="106" name="CN" clockrate="32000"/>
+		<payload-type id="105" name="CN" clockrate="16000"/>
+		<payload-type id="13" name="CN" clockrate="8000"/>
+		<payload-type id="126" name="telephone-event" clockrate="8000" maxptime="60"/>
+		<encryption required='1'>
+			<crypto crypto-suite='AES_CM_128_HMAC_SHA1_80' key-params='inline:Sv26gl3hOiCJ0rxZ2wWHC2K+9UdE1oGZUenOmF/o' session-params='' tag='1'/>
+			<crypto crypto-suite='AES_CM_128_HMAC_SHA1_32' key-params='inline:RHiVK5mn01CXzLnZiAa230KGJwwnaX2CY/ytjCqR' session-params='' tag='0'/>
+		</encryption>
+		<stream>
+		</stream>
+	</description>
+	<transport xmlns='urn:xmpp:jingle:transports:raw-udp:1' pwd='9JR7GZRZzYAHFkFmdG9DHADx' ufrag='TrbVa7ZyJ/HJNLyu'>
+        <candidate generation='0' ip='10.0.0.3' port='54744' protocol='udp' type='host'/>
+        <candidate generation='0' ip='88.117.115.117' port='52272' protocol='udp' type='srflx'/>
+        <candidate generation='0' ip='10.0.0.3' port='58811' protocol='tcp' type='srflx'/>
+	</transport>
+</content>
